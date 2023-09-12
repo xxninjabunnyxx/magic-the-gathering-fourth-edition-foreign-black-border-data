@@ -1,0 +1,105 @@
+---
+object: card
+id: f1485b42-514b-4c9d-b50e-2bbdfdc7ee1f
+oracle_id: eaaf7c30-f463-4115-a40e-7dc717063413
+multiverse_ids: []
+tcgplayer_id: 109449
+cardmarket_id: 251282
+name: Reverse Damage
+printed_name: Inversión de daño
+lang: es
+released_at: '1995-04-01'
+uri: https://api.scryfall.com/cards/f1485b42-514b-4c9d-b50e-2bbdfdc7ee1f
+scryfall_uri: https://scryfall.com/card/4bb/45/es/inversi%C3%B3n-de-da%C3%B1o?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/1/f1485b42-514b-4c9d-b50e-2bbdfdc7ee1f.jpg?1557431049
+  normal: https://cards.scryfall.io/normal/front/f/1/f1485b42-514b-4c9d-b50e-2bbdfdc7ee1f.jpg?1557431049
+  large: https://cards.scryfall.io/large/front/f/1/f1485b42-514b-4c9d-b50e-2bbdfdc7ee1f.jpg?1557431049
+  png: https://cards.scryfall.io/png/front/f/1/f1485b42-514b-4c9d-b50e-2bbdfdc7ee1f.png?1557431049
+  art_crop: https://cards.scryfall.io/art_crop/front/f/1/f1485b42-514b-4c9d-b50e-2bbdfdc7ee1f.jpg?1557431049
+  border_crop: https://cards.scryfall.io/border_crop/front/f/1/f1485b42-514b-4c9d-b50e-2bbdfdc7ee1f.jpg?1557431049
+mana_cost: "{1}{W}{W}"
+cmc: 3.0
+type_line: Instant
+oracle_text: The next time a source of your choice would deal damage to you this turn,
+  prevent that damage. You gain life equal to the damage prevented this way.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set: 4bb
+set_name: Fourth Edition Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A4bb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/4bb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f1485b42-514b-4c9d-b50e-2bbdfdc7ee1f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aeaaf7c30-f463-4115-a40e-7dc717063413&unique=prints
+collector_number: '45'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dameon Willich
+artist_ids:
+- 606a37b0-9d2d-477b-b679-100bc30b46b3
+illustration_id: 7522ac8c-0829-4409-88c9-57f6409fa93b
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 15477
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '4.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Reverse+Damage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Reverse+Damage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Reverse+Damage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109449?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Reverse+Damage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Reverse+Damage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

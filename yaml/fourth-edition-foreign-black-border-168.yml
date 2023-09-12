@@ -1,0 +1,110 @@
+---
+object: card
+id: 49993499-c655-4444-a50d-119407a13712
+oracle_id: 8ffe4986-9e09-4421-ad26-296a4c0df9e4
+multiverse_ids: []
+tcgplayer_id: 109586
+cardmarket_id: 251331
+name: Wall of Bone
+printed_name: Muro de huesos
+lang: es
+released_at: '1995-04-01'
+uri: https://api.scryfall.com/cards/49993499-c655-4444-a50d-119407a13712
+scryfall_uri: https://scryfall.com/card/4bb/168/es/muro-de-huesos?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/9/49993499-c655-4444-a50d-119407a13712.jpg?1557431926
+  normal: https://cards.scryfall.io/normal/front/4/9/49993499-c655-4444-a50d-119407a13712.jpg?1557431926
+  large: https://cards.scryfall.io/large/front/4/9/49993499-c655-4444-a50d-119407a13712.jpg?1557431926
+  png: https://cards.scryfall.io/png/front/4/9/49993499-c655-4444-a50d-119407a13712.png?1557431926
+  art_crop: https://cards.scryfall.io/art_crop/front/4/9/49993499-c655-4444-a50d-119407a13712.jpg?1557431926
+  border_crop: https://cards.scryfall.io/border_crop/front/4/9/49993499-c655-4444-a50d-119407a13712.jpg?1557431926
+mana_cost: "{2}{B}"
+cmc: 3.0
+type_line: Creature — Skeleton Wall
+oracle_text: |-
+  Defender (This creature can't attack.)
+  {B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+power: '1'
+toughness: '4'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Defender
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set: 4bb
+set_name: Fourth Edition Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A4bb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/4bb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/49993499-c655-4444-a50d-119407a13712/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8ffe4986-9e09-4421-ad26-296a4c0df9e4&unique=prints
+collector_number: '168'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anson Maddocks
+artist_ids:
+- 634430a7-b5c3-4e4a-b2ac-164e084e47c9
+illustration_id: a5076316-eae0-4675-ad45-35d7af36a02f
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 15479
+penny_rank: 13262
+prices:
+  usd: '0.99'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.75'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wall+of+Bone&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wall+of+Bone&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wall+of+Bone
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109586?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wall+of+Bone&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wall+of+Bone&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

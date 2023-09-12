@@ -1,0 +1,108 @@
+---
+object: card
+id: e6ea7a74-5b52-40ae-a9e0-967bd7882135
+oracle_id: 95a0ca48-d924-47f4-86ed-42c673ee778c
+multiverse_ids: []
+tcgplayer_id: 109313
+cardmarket_id: 251389
+name: Samite Healer
+printed_name: Sanador Samita
+lang: es
+released_at: '1995-04-01'
+uri: https://api.scryfall.com/cards/e6ea7a74-5b52-40ae-a9e0-967bd7882135
+scryfall_uri: https://scryfall.com/card/4bb/47/es/sanador-samita?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/6/e6ea7a74-5b52-40ae-a9e0-967bd7882135.jpg?1557431063
+  normal: https://cards.scryfall.io/normal/front/e/6/e6ea7a74-5b52-40ae-a9e0-967bd7882135.jpg?1557431063
+  large: https://cards.scryfall.io/large/front/e/6/e6ea7a74-5b52-40ae-a9e0-967bd7882135.jpg?1557431063
+  png: https://cards.scryfall.io/png/front/e/6/e6ea7a74-5b52-40ae-a9e0-967bd7882135.png?1557431063
+  art_crop: https://cards.scryfall.io/art_crop/front/e/6/e6ea7a74-5b52-40ae-a9e0-967bd7882135.jpg?1557431063
+  border_crop: https://cards.scryfall.io/border_crop/front/e/6/e6ea7a74-5b52-40ae-a9e0-967bd7882135.jpg?1557431063
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Creature — Human Cleric
+oracle_text: "{T}: Prevent the next 1 damage that would be dealt to any target this
+  turn."
+power: '1'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set: 4bb
+set_name: Fourth Edition Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A4bb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/4bb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e6ea7a74-5b52-40ae-a9e0-967bd7882135/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95a0ca48-d924-47f4-86ed-42c673ee778c&unique=prints
+collector_number: '47'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tom Wänerstrand
+artist_ids:
+- c4e0aa7c-a008-4d71-80ce-d5a1ca0b251b
+illustration_id: 044ee33d-deaa-4cdb-9e5f-f71d5cef572f
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 22653
+penny_rank: 12294
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Samite+Healer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Samite+Healer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Samite+Healer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109313?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Samite+Healer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Samite+Healer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

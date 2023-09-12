@@ -1,0 +1,108 @@
+---
+object: card
+id: 82071ead-56cc-4638-9c8f-cc2dd7727f29
+oracle_id: e740ce2f-2134-473c-afa1-1b6d2d1e38ef
+multiverse_ids: []
+tcgplayer_id: 109268
+cardmarket_id: 251097
+name: Giant Spider
+printed_name: Araña gigante
+lang: es
+released_at: '1995-04-01'
+uri: https://api.scryfall.com/cards/82071ead-56cc-4638-9c8f-cc2dd7727f29
+scryfall_uri: https://scryfall.com/card/4bb/249/es/ara%C3%B1a-gigante?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/2/82071ead-56cc-4638-9c8f-cc2dd7727f29.jpg?1557432512
+  normal: https://cards.scryfall.io/normal/front/8/2/82071ead-56cc-4638-9c8f-cc2dd7727f29.jpg?1557432512
+  large: https://cards.scryfall.io/large/front/8/2/82071ead-56cc-4638-9c8f-cc2dd7727f29.jpg?1557432512
+  png: https://cards.scryfall.io/png/front/8/2/82071ead-56cc-4638-9c8f-cc2dd7727f29.png?1557432512
+  art_crop: https://cards.scryfall.io/art_crop/front/8/2/82071ead-56cc-4638-9c8f-cc2dd7727f29.jpg?1557432512
+  border_crop: https://cards.scryfall.io/border_crop/front/8/2/82071ead-56cc-4638-9c8f-cc2dd7727f29.jpg?1557432512
+mana_cost: "{3}{G}"
+cmc: 4.0
+type_line: Creature — Spider
+oracle_text: Reach (This creature can block creatures with flying.)
+power: '2'
+toughness: '4'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Reach
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set: 4bb
+set_name: Fourth Edition Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A4bb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/4bb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/82071ead-56cc-4638-9c8f-cc2dd7727f29/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae740ce2f-2134-473c-afa1-1b6d2d1e38ef&unique=prints
+collector_number: '249'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Sandra Everingham
+artist_ids:
+- 8a8ac2c8-84c9-4274-9960-a19a97f0bde5
+illustration_id: 045f9094-9db2-443b-9c9f-d03292f0c9d1
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 14518
+penny_rank: 12128
+prices:
+  usd: '3.75'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Giant+Spider&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Giant+Spider&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Giant+Spider
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109268?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Giant+Spider&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Giant+Spider&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

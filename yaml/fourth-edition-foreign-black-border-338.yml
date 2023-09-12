@@ -1,0 +1,105 @@
+---
+object: card
+id: 4cee07c5-0651-4dfb-861d-3fd016e3bf63
+oracle_id: 96230edf-568a-47dd-b877-9d92aa58fac8
+multiverse_ids: []
+tcgplayer_id: 109435
+cardmarket_id: 251189
+name: Nevinyrral's Disk
+printed_name: Disco de Nevinyrral
+lang: es
+released_at: '1995-04-01'
+uri: https://api.scryfall.com/cards/4cee07c5-0651-4dfb-861d-3fd016e3bf63
+scryfall_uri: https://scryfall.com/card/4bb/338/es/disco-de-nevinyrral?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/c/4cee07c5-0651-4dfb-861d-3fd016e3bf63.jpg?1557433165
+  normal: https://cards.scryfall.io/normal/front/4/c/4cee07c5-0651-4dfb-861d-3fd016e3bf63.jpg?1557433165
+  large: https://cards.scryfall.io/large/front/4/c/4cee07c5-0651-4dfb-861d-3fd016e3bf63.jpg?1557433165
+  png: https://cards.scryfall.io/png/front/4/c/4cee07c5-0651-4dfb-861d-3fd016e3bf63.png?1557433165
+  art_crop: https://cards.scryfall.io/art_crop/front/4/c/4cee07c5-0651-4dfb-861d-3fd016e3bf63.jpg?1557433165
+  border_crop: https://cards.scryfall.io/border_crop/front/4/c/4cee07c5-0651-4dfb-861d-3fd016e3bf63.jpg?1557433165
+mana_cost: "{4}"
+cmc: 4.0
+type_line: Artifact
+oracle_text: |-
+  Nevinyrral's Disk enters the battlefield tapped.
+  {1}, {T}: Destroy all artifacts, creatures, and enchantments.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set: 4bb
+set_name: Fourth Edition Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A4bb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/4bb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4cee07c5-0651-4dfb-861d-3fd016e3bf63/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A96230edf-568a-47dd-b877-9d92aa58fac8&unique=prints
+collector_number: '338'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: c895f461-6194-45b4-b820-6577ed426a3c
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 845
+penny_rank: 1082
+prices:
+  usd: '57.79'
+  usd_foil: 
+  usd_etched: 
+  eur: '34.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nevinyrral%27s+Disk&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nevinyrral%27s+Disk&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nevinyrral%27s+Disk
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109435?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nevinyrral%27s+Disk&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nevinyrral%27s+Disk&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

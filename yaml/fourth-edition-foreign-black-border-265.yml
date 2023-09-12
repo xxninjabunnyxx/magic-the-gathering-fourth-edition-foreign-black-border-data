@@ -1,0 +1,97 @@
+---
+object: card
+id: 73ed67a3-7da0-444d-9ac9-7107b0ed7762
+oracle_id: 37c49483-bef6-47c6-9354-ead8560d48da
+multiverse_ids: []
+name: Pradesh Gypsies
+printed_name: Zíngaros de Pradesh
+lang: es
+released_at: '1995-04-01'
+uri: https://api.scryfall.com/cards/73ed67a3-7da0-444d-9ac9-7107b0ed7762
+scryfall_uri: https://scryfall.com/card/4bb/265/es/z%C3%ADngaros-de-pradesh?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/3/73ed67a3-7da0-444d-9ac9-7107b0ed7762.jpg?1557432628
+  normal: https://cards.scryfall.io/normal/front/7/3/73ed67a3-7da0-444d-9ac9-7107b0ed7762.jpg?1557432628
+  large: https://cards.scryfall.io/large/front/7/3/73ed67a3-7da0-444d-9ac9-7107b0ed7762.jpg?1557432628
+  png: https://cards.scryfall.io/png/front/7/3/73ed67a3-7da0-444d-9ac9-7107b0ed7762.png?1557432628
+  art_crop: https://cards.scryfall.io/art_crop/front/7/3/73ed67a3-7da0-444d-9ac9-7107b0ed7762.jpg?1557432628
+  border_crop: https://cards.scryfall.io/border_crop/front/7/3/73ed67a3-7da0-444d-9ac9-7107b0ed7762.jpg?1557432628
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Creature — Human Nomad
+oracle_text: "{1}{G}, {T}: Target creature gets -2/-0 until end of turn."
+power: '1'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: banned
+  vintage: banned
+  penny: not_legal
+  commander: banned
+  oathbreaker: banned
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: banned
+  duel: banned
+  oldschool: not_legal
+  premodern: legal
+  predh: banned
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set: 4bb
+set_name: Fourth Edition Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A4bb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/4bb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/73ed67a3-7da0-444d-9ac9-7107b0ed7762/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A37c49483-bef6-47c6-9354-ead8560d48da&unique=prints
+collector_number: '265'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Quinton Hoover
+artist_ids:
+- 1a2db619-92a5-431a-822b-101cdcc5bd5d
+illustration_id: '07121780-50b2-457f-b744-21d24c3383f2'
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+content_warning: true
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris: {}

@@ -1,0 +1,104 @@
+---
+object: card
+id: 2905243b-2885-4b07-8171-ce99be2e5c6e
+oracle_id: 7bb41690-f8ec-462a-ba29-be453eb86fca
+multiverse_ids: []
+tcgplayer_id: 109314
+cardmarket_id: 251418
+name: Sandstorm
+printed_name: Tormenta de arena
+lang: es
+released_at: '1995-04-01'
+uri: https://api.scryfall.com/cards/2905243b-2885-4b07-8171-ce99be2e5c6e
+scryfall_uri: https://scryfall.com/card/4bb/269/es/tormenta-de-arena?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/9/2905243b-2885-4b07-8171-ce99be2e5c6e.jpg?1557432660
+  normal: https://cards.scryfall.io/normal/front/2/9/2905243b-2885-4b07-8171-ce99be2e5c6e.jpg?1557432660
+  large: https://cards.scryfall.io/large/front/2/9/2905243b-2885-4b07-8171-ce99be2e5c6e.jpg?1557432660
+  png: https://cards.scryfall.io/png/front/2/9/2905243b-2885-4b07-8171-ce99be2e5c6e.png?1557432660
+  art_crop: https://cards.scryfall.io/art_crop/front/2/9/2905243b-2885-4b07-8171-ce99be2e5c6e.jpg?1557432660
+  border_crop: https://cards.scryfall.io/border_crop/front/2/9/2905243b-2885-4b07-8171-ce99be2e5c6e.jpg?1557432660
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Sandstorm deals 1 damage to each attacking creature.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set: 4bb
+set_name: Fourth Edition Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A4bb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/4bb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2905243b-2885-4b07-8171-ce99be2e5c6e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7bb41690-f8ec-462a-ba29-be453eb86fca&unique=prints
+collector_number: '269'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Brian Snõddy
+artist_ids:
+- 770b4e16-de76-49ed-949f-84e6d2e06d25
+illustration_id: bf469ded-1797-4702-a2cb-692ae37a4a79
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 19698
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.29'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sandstorm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sandstorm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sandstorm
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109314?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sandstorm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sandstorm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

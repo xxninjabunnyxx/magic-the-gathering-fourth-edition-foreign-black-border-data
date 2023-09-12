@@ -1,0 +1,111 @@
+---
+object: card
+id: 84e2bf24-432e-4a2c-b684-ed1f0fb9d15a
+oracle_id: 9456c5b6-946d-403a-8ed0-dff9f921d98c
+multiverse_ids: []
+tcgplayer_id: 109489
+cardmarket_id: 251146
+name: Black Knight
+printed_name: Caballero negro
+lang: es
+released_at: '1995-04-01'
+uri: https://api.scryfall.com/cards/84e2bf24-432e-4a2c-b684-ed1f0fb9d15a
+scryfall_uri: https://scryfall.com/card/4bb/121/es/caballero-negro?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/4/84e2bf24-432e-4a2c-b684-ed1f0fb9d15a.jpg?1557431594
+  normal: https://cards.scryfall.io/normal/front/8/4/84e2bf24-432e-4a2c-b684-ed1f0fb9d15a.jpg?1557431594
+  large: https://cards.scryfall.io/large/front/8/4/84e2bf24-432e-4a2c-b684-ed1f0fb9d15a.jpg?1557431594
+  png: https://cards.scryfall.io/png/front/8/4/84e2bf24-432e-4a2c-b684-ed1f0fb9d15a.png?1557431594
+  art_crop: https://cards.scryfall.io/art_crop/front/8/4/84e2bf24-432e-4a2c-b684-ed1f0fb9d15a.jpg?1557431594
+  border_crop: https://cards.scryfall.io/border_crop/front/8/4/84e2bf24-432e-4a2c-b684-ed1f0fb9d15a.jpg?1557431594
+mana_cost: "{B}{B}"
+cmc: 2.0
+type_line: Creature — Human Knight
+oracle_text: |-
+  First strike (This creature deals combat damage before creatures without first strike.)
+  Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+power: '2'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- First strike
+- Protection
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set: 4bb
+set_name: Fourth Edition Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A4bb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/4bb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/84e2bf24-432e-4a2c-b684-ed1f0fb9d15a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9456c5b6-946d-403a-8ed0-dff9f921d98c&unique=prints
+collector_number: '121'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff A. Menges
+artist_ids:
+- 14a1de4b-1237-4e7b-8868-b71e87c9a46e
+illustration_id: 1d2452e5-ca1f-4c39-8977-b816d334dd21
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 12422
+penny_rank: 6076
+prices:
+  usd: '10.64'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.70'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Black+Knight&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Black+Knight&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Black+Knight
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109489?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Black+Knight&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Black+Knight&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,110 @@
+---
+object: card
+id: fcb0245a-4505-406a-9ad8-a0c377411481
+oracle_id: 508248d1-09a4-4e41-a4c9-286618e5061e
+multiverse_ids: []
+tcgplayer_id: 109494
+cardmarket_id: 251095
+name: Bog Wraith
+printed_name: Aparición de la ciénaga
+lang: es
+released_at: '1995-04-01'
+uri: https://api.scryfall.com/cards/fcb0245a-4505-406a-9ad8-a0c377411481
+scryfall_uri: https://scryfall.com/card/4bb/124/es/aparici%C3%B3n-de-la-ci%C3%A9naga?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/c/fcb0245a-4505-406a-9ad8-a0c377411481.jpg?1557431617
+  normal: https://cards.scryfall.io/normal/front/f/c/fcb0245a-4505-406a-9ad8-a0c377411481.jpg?1557431617
+  large: https://cards.scryfall.io/large/front/f/c/fcb0245a-4505-406a-9ad8-a0c377411481.jpg?1557431617
+  png: https://cards.scryfall.io/png/front/f/c/fcb0245a-4505-406a-9ad8-a0c377411481.png?1557431617
+  art_crop: https://cards.scryfall.io/art_crop/front/f/c/fcb0245a-4505-406a-9ad8-a0c377411481.jpg?1557431617
+  border_crop: https://cards.scryfall.io/border_crop/front/f/c/fcb0245a-4505-406a-9ad8-a0c377411481.jpg?1557431617
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Creature — Wraith
+oracle_text: Swampwalk (This creature can't be blocked as long as defending player
+  controls a Swamp.)
+power: '3'
+toughness: '3'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Landwalk
+- Swampwalk
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set: 4bb
+set_name: Fourth Edition Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A4bb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/4bb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fcb0245a-4505-406a-9ad8-a0c377411481/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A508248d1-09a4-4e41-a4c9-286618e5061e&unique=prints
+collector_number: '124'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff A. Menges
+artist_ids:
+- 14a1de4b-1237-4e7b-8868-b71e87c9a46e
+illustration_id: e1913715-7061-422a-ae16-2f5b7c939111
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 16882
+penny_rank: 12563
+prices:
+  usd: '6.95'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bog+Wraith&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bog+Wraith&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Bog+Wraith
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109494?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bog+Wraith&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bog+Wraith&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

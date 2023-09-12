@@ -1,0 +1,103 @@
+---
+object: card
+id: c5a0af48-b446-4e78-9e7e-b644f227e3eb
+oracle_id: af7fabf4-8d55-4b06-9c21-472f4a5775b4
+multiverse_ids: []
+tcgplayer_id: 109526
+cardmarket_id: 251093
+name: Glasses of Urza
+printed_name: Anteojos de Urza
+lang: es
+released_at: '1995-04-01'
+uri: https://api.scryfall.com/cards/c5a0af48-b446-4e78-9e7e-b644f227e3eb
+scryfall_uri: https://scryfall.com/card/4bb/321/es/anteojos-de-urza?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/5/c5a0af48-b446-4e78-9e7e-b644f227e3eb.jpg?1557433033
+  normal: https://cards.scryfall.io/normal/front/c/5/c5a0af48-b446-4e78-9e7e-b644f227e3eb.jpg?1557433033
+  large: https://cards.scryfall.io/large/front/c/5/c5a0af48-b446-4e78-9e7e-b644f227e3eb.jpg?1557433033
+  png: https://cards.scryfall.io/png/front/c/5/c5a0af48-b446-4e78-9e7e-b644f227e3eb.png?1557433033
+  art_crop: https://cards.scryfall.io/art_crop/front/c/5/c5a0af48-b446-4e78-9e7e-b644f227e3eb.jpg?1557433033
+  border_crop: https://cards.scryfall.io/border_crop/front/c/5/c5a0af48-b446-4e78-9e7e-b644f227e3eb.jpg?1557433033
+mana_cost: "{1}"
+cmc: 1.0
+type_line: Artifact
+oracle_text: "{T}: Look at target player's hand."
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set: 4bb
+set_name: Fourth Edition Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/daa633b3-2bdb-48a2-a40e-3de16b6e41a5
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A4bb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/4bb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c5a0af48-b446-4e78-9e7e-b644f227e3eb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaf7fabf4-8d55-4b06-9c21-472f4a5775b4&unique=prints
+collector_number: '321'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Douglas Shuler
+artist_ids:
+- a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+illustration_id: d66f91b8-eeb5-4181-8f9e-8b111ebe27ac
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 10931
+penny_rank: 11780
+prices:
+  usd: '9.95'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.50'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Glasses+of+Urza&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Glasses+of+Urza&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Glasses+of+Urza
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109526?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Glasses+of+Urza&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Glasses+of+Urza&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
